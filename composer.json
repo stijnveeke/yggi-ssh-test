@@ -1,0 +1,14 @@
+{
+    "name": "yggi/ssh-test",
+    "description": "The package in order to use snappy within the yggdrasil application",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stijn van Eekelen",
+            "email": "sve@case-electronics.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
